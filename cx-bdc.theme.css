@@ -12,20 +12,20 @@
 
 /* removable addons */
 /*@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");*/
-@import url("https://github.com/Mozza7/CX-BDC/raw/refs/heads/main/Addons/SettingsIcons.css");
-@import url("https://github.com/Mozza7/CX-BDC/raw/refs/heads/main/Addons/Discolered.css");
-@import url("https://github.com/Mozza7/CX-BDC/raw/refs/heads/main/Addons/IconPackEdited.css");
-@import url("https://github.com/Mozza7/CX-BDC/raw/refs/heads/main/Addons/AvatarOnlyMemberList.css");
-@import url("https://github.com/Mozza7/CX-BDC/raw/refs/heads/main/Addons/FolderRedesign.css");
-@import url("https://github.com/Mozza7/CX-BDC/raw/refs/heads/main/Addons/RadialStatus.css");
-@import url("https://github.com/Mozza7/CX-BDC/raw/refs/heads/main/Addons/FriendGrid.css");
-@import url("https://github.com/Mozza7/CX-BDC/raw/refs/heads/main/Addons/ColoredLinks.css");
+@import url("https://raw.githubusercontent.com/Mozza7/CX-BDC/refs/heads/main/Addons/SettingsIcons.css");
+@import url("https://raw.githubusercontent.com/Mozza7/CX-BDC/refs/heads/main/Addons/Discolered.css");
+@import url("https://raw.githubusercontent.com/Mozza7/CX-BDC/refs/heads/main/Addons/IconPackEdited.css");
+@import url("https://raw.githubusercontent.com/Mozza7/CX-BDC/refs/heads/main/Addons/AvatarOnlyMemberList.css");
+@import url("https://raw.githubusercontent.com/Mozza7/CX-BDC/refs/heads/main/Addons/FolderRedesign.css");
+@import url("https://raw.githubusercontent.com/Mozza7/CX-BDC/refs/heads/main/Addons/RadialStatus.css");
+@import url("https://raw.githubusercontent.com/Mozza7/CX-BDC/refs/heads/main/Addons/FriendGrid.css");
+@import url("https://raw.githubusercontent.com/Mozza7/CX-BDC/refs/heads/main/Addons/ColoredLinks.css");
 
 /*additional addons*/
 /*(remove the both * to use)*/
 
 /* To hide annoying elements such as nitro, shop, sticker picker etc tab (remove the both * to use)*/
-/*@import url("https://github.com/Mozza7/CX-BDC/raw/refs/heads/main/Addons/HideAnnoyingElements.css");*/
+/*@import url("https://raw.githubusercontent.com/Mozza7/CX-BDC/refs/heads/main/Addons/HideAnnoyingElements.css");*/
 
 
 /*Chillax Roots*/
@@ -35,15 +35,15 @@
     --background-image: var(--wallpaper);
     --bg-opacity: 100%;
     /*bg dev suggestions*/
-    --wallpaper: url("https://github.com/Mozza7/CX-BDC/raw/refs/heads/main/Wallpapers/bdc-background.png");
-    /* --wallpaper: url("https://github.com/Mozza7/CX-BDC/raw/refs/heads/main/Wallpapers/chillax-default.png"); */
+    --wallpaper: url("https://raw.githubusercontent.com/Mozza7/CX-BDC/refs/heads/main/Wallpapers/bdc-background.png");
+    /* --wallpaper: url("https://raw.githubusercontent.com/Mozza7/CX-BDC/refs/heads/main/Wallpapers/chillax-default.png"); */
     /*modern background selection*/
-    --modern-dark-bg: url("https://github.com/Mozza7/CX-BDC/raw/refs/heads/main/Wallpapers/modern-dark-bg.png");
-    --modern-light-bg: url("https://github.com/Mozza7/CX-BDC/raw/refs/heads/main/Wallpapers/modern-light-bg.png");
+    --modern-dark-bg: url("https://raw.githubusercontent.com/Mozza7/CX-BDC/refs/heads/main/Wallpapers/modern-dark-bg.png");
+    --modern-light-bg: url("https://raw.githubusercontent.com/Mozza7/CX-BDC/refs/heads/main/Wallpapers/modern-light-bg.png");
 
     /* CUSTOM LOGO */
     /* Replace the url below to change the home icon */
-    --home-icon: url("https://github.com/Mozza7/CX-BDC/raw/refs/heads/main/Assets/tripleS-logo.png");
+    --home-icon: url("https://raw.githubusercontent.com/Mozza7/CX-BDC/refs/heads/main/Assets/tripleS-logo.png");
 }
 
 
@@ -132,7 +132,7 @@
     /* change `transparent` to some other hex color to make it visible */
 
     /* Change the ulr in the `--chillax-spotify-control-squid-gif-url` css var to your liking https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0c/Glow_Squid_BE1.gif*/
-    --chillax-spotify-control-squid-gif-url: "https://github.com/Mozza7/CX-BDC/raw/refs/heads/main/Assets/tripleS-logo.png";
+    --chillax-spotify-control-squid-gif-url: "https://raw.githubusercontent.com/Mozza7/CX-BDC/refs/heads/main/Assets/tripleS-logo.png";
     /* adjust the height and width accordingly */
     --chillax-spotify-control-squid-width: 25px;
     --chillax-spotify-control-squid-height: 25px;
