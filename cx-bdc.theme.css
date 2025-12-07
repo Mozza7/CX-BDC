@@ -1,6 +1,6 @@
 /**
- * @name Chillax BDC 
- * @author Chillax Squad
+ * @name CX-BDC 
+ * @author Chillax Squad [MODDED]
  * @authorLink https://github.com/warrayquipsome/Chillax#Authors
  * @version 2.1.2
  * @description The theme where calm meets customization.
@@ -8,7 +8,7 @@
 */
 
 /* CHILLAX theme entry point */
-@import url("https://github.com/Mozza7/CX-BDC/raw/refs/heads/main/chillax.css");
+@import url("https://github.com/Mozza7/CX-BDC/main/chillax.css");
 
 /* removable addons */
 /*@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");*/
