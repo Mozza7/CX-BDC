@@ -1,0 +1,205 @@
+/**
+ * @name Chillax BDC 
+ * @author Chillax Squad
+ * @authorLink https://github.com/warrayquipsome/Chillax#Authors
+ * @version 2.1.2
+ * @description The theme where calm meets customization.
+ * @source https://github.com/warrayquipsome/Chillax
+*/
+
+/* CHILLAX theme entry point */
+@import url("https://github.com/Mozza7/Chillax-BDC/raw/refs/heads/main/chillax.css");
+
+/* removable addons */
+/*@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");*/
+@import url("https://github.com/Mozza7/Chillax-BDC/raw/refs/heads/main/Addons/SettingsIcons.css");
+@import url("https://github.com/Mozza7/Chillax-BDC/raw/refs/heads/main/Addons/Discolered.css");
+@import url("https://github.com/Mozza7/Chillax-BDC/raw/refs/heads/main/Addons/IconPackEdited.css");
+@import url("https://github.com/Mozza7/Chillax-BDC/raw/refs/heads/main/Addons/AvatarOnlyMemberList.css");
+@import url("https://github.com/Mozza7/Chillax-BDC/raw/refs/heads/main/Addons/FolderRedesign.css");
+@import url("https://github.com/Mozza7/Chillax-BDC/raw/refs/heads/main/Addons/RadialStatus.css");
+@import url("https://github.com/Mozza7/Chillax-BDC/raw/refs/heads/main/Addons/FriendGrid.css");
+@import url("https://github.com/Mozza7/Chillax-BDC/raw/refs/heads/main/Addons/ColoredLinks.css");
+
+/*additional addons*/
+/*(remove the both * to use)*/
+
+/* To hide annoying elements such as nitro, shop, sticker picker etc tab (remove the both * to use)*/
+/*@import url("https://github.com/Mozza7/Chillax-BDC/raw/refs/heads/main/Addons/HideAnnoyingElements.css");*/
+
+
+/*Chillax Roots*/
+:root {
+    /*background image*/
+    /*(replace the link to use)*/
+    --background-image: var(--wallpaper);
+    --bg-opacity: 100%;
+    /*bg dev suggestions*/
+    --wallpaper: url("https://github.com/Mozza7/Chillax-BDC/raw/refs/heads/main/Wallpapers/bdc-background.png");
+    /* --wallpaper: url("https://github.com/Mozza7/Chillax-BDC/raw/refs/heads/main/Wallpapers/chillax-default.png"); */
+    /*modern background selection*/
+    --modern-dark-bg: url("https://github.com/Mozza7/Chillax-BDC/raw/refs/heads/main/Wallpapers/modern-dark-bg.png");
+    --modern-light-bg: url("https://github.com/Mozza7/Chillax-BDC/raw/refs/heads/main/Wallpapers/modern-light-bg.png");
+
+    /* CUSTOM LOGO */
+    /* Replace the url below to change the home icon */
+    --home-icon: url("https://github.com/Mozza7/Chillax-BDC/raw/refs/heads/main/Assets/tripleS-logo.png");
+}
+
+
+/*window*/
+/*dark mode*/
+:root.theme-dark {
+    --window-margin: 20px;
+    /*must be above 20px*/
+    --window-colour: rgba(58, 33, 58, 0.6);
+    --window-blur: 5px;
+    --window-border-radius: 10px;
+    --sidebar-colour: rgb(109, 66, 109);
+}
+
+/*window*/
+/*light mode*/
+:root.theme-light {
+    --window-margin: 20px;
+    /*must be above 20px*/
+    --window-colour: rgba(255, 255, 255, 0.6);
+    --window-blur: 5px;
+    --window-border-radius: 10px;
+    --sidebar-colour: rgb(209, 209, 209);
+}
+
+
+/*roots*/
+/*both dark and light*/
+:root {
+    --user-name: "King";
+    --edited-message: "✎ ALTERED: IS NOW A LIE";
+    --font-name: Poppins;
+    --font-size: 13px;
+    --group-chat-font: "Monoton";
+    /* change this to change the group chat's default font */
+
+
+    /*glow radial status*/
+    /*must end in px*/
+    --rs-small-spacing: 0px;
+    --rs-large-spacing: 0px;
+    --rs-medium-spacing: 0px;
+    --rs-small-width: 2.5px;
+    --rs-medium-width: 3.5px;
+    --rs-large-width: 4.5px;
+    --rs-avatar-shape: 50%;
+    --rs-online-color: #1df594;
+    --rs-idle-color: #faa61a;
+    --rs-dnd-color: #f04747;
+    --rs-offline-color: #636b75;
+    --rs-streaming-color: #643da7;
+    --rs-invisible-color: #636b75;
+    --rs-phone-visible: block;
+    /* change it to `none` to disable mobile icon */
+    --rs-phone-color: var(--rs-online-color);
+
+    /* For accent color to take full effect must need to change both */
+    /* chillax colours rgb */
+    --accentcolor: 142, 67, 185;
+    /* chillax colours hex */
+    --accentcolorV2: #8e43b9;
+
+
+    /* settings modal root */
+    --themelightsettingsmodalbackground: rgb(223, 223, 223);
+    --themedarksettingsmodalbackground: rgb(51, 49, 53);
+    --settingsmodalwidth: 960px;
+    --settingsmodalheight: 80vh;
+
+    /* avatar only member list */
+    --memberlist-border-radius: 10px;
+    /* can be in `px`, `rem`, `em` */
+
+    /* placeholder texts/values */
+    /* input fields */
+    --chillax-input-field: "Life is so much easier when you just take a moment to die";
+    /* input fields  when the channel is locked*/
+    --chillax-input-field-locked: "Unfortunately, you can't piss in this channel";
+    /* typing indicator: when a single person is typing */
+    --chillax-input-typing-indicator-one-person: "is putting together some shite";
+    /* typing indicator: when more than one person is typing */
+    --chillax-input-typing-indicator-many-person: "are bullshitting together";
+
+    /* scroller (by default transparent) */
+    --chillax-scroller-color: transparent;
+    /* change `transparent` to some other hex color to make it visible */
+
+    /* Change the ulr in the `--chillax-spotify-control-squid-gif-url` css var to your liking https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0c/Glow_Squid_BE1.gif*/
+    --chillax-spotify-control-squid-gif-url: "https://github.com/Mozza7/Chillax-BDC/raw/refs/heads/main/Assets/tripleS-logo.png";
+    /* adjust the height and width accordingly */
+    --chillax-spotify-control-squid-width: 25px;
+    --chillax-spotify-control-squid-height: 25px;
+
+}
+
+/*discord transparency*/
+/*roots*/
+/*theme dark*/
+.theme-dark {
+    --background-message-hover: rgba(255, 255, 255, 0.055);
+    --header-primary: #fff;
+    --header-secondary: #b9bbbe;
+    --text-normal: #dcddde;
+    --text-muted: #9d9d9d;
+    --channels-default: #8e9297;
+    --interactive-normal: #b9bbbe;
+    --interactive-hover: #dcddde;
+    --interactive-active: #fff;
+    --interactive-muted: #4f545c;
+    --background-primary: transparent;
+    --background-secondary: transparent;
+    --background-tertiary: transparent;
+    --background-accent: rgb(36, 36, 36);
+    --activity-card-background: transparent;
+    --deprecated-panel-background: transparent;
+}
+
+/*discord transparency*/
+/*roots*/
+/*theme light*/
+.theme-light {
+    --background-message-hover: rgba(255, 255, 255, 0.055);
+    --header-primary: rgb(0, 0, 0);
+    --header-secondary: #3f3f3f;
+    --text-normal: #303030;
+    --text-muted: #333333;
+    --channels-default: #585b5e;
+    --interactive-normal: #3a3a3a;
+    --interactive-hover: #333333;
+    --interactive-active: rgb(0, 0, 0);
+    --interactive-muted: #4f545c;
+    --background-primary: transparent;
+    --background-secondary: transparent;
+    --background-tertiary: transparent;
+    --background-accent: rgb(27, 27, 27);
+    --activity-card-background: transparent;
+    --deprecated-panel-background: transparent;
+}
+
+/*Permissions*/
+/*
+- You do not have the rights to use our theme name Chillax™ on other projects
+- You do not have the rights to remove our theme watermark in the theme
+- You do not have the rights to change this theme author/dev/maintainer name to anyone
+*/
+
+/* Custom Home Icon Implementation */
+.tutorialContainer__1f388 .homeIcon__560eb path {
+    display: none !important;
+}
+
+.tutorialContainer__1f388 .homeIcon__560eb {
+    background-image: var(--home-icon) !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: contain !important;
+    min-width: 32px !important;
+    min-height: 32px !important;
+}
