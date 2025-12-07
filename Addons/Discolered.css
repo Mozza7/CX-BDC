@@ -1,129 +1,129 @@
 /* 🛩️ Airplane */
 [style*='background-image: url("/assets/bb9dbec63310ef1d5269.svg");'],
 [style*='background-image: url("/assets/56b4ca8deff0b44cbc6f.svg");'] {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/airplane.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/airplane.svg") !important;
 }
 
 /* 🕹️ Arcades */
 [style*='background-image: url("/assets/3b6c4f5175af3e9b7270.svg");'],
 [style*='background-image: url("/assets/92742b32a01aa24e12ce.svg");'] {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/arcades.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/arcades.svg") !important;
 }
 
 /* 🔨 Ban Hammer */
 [style*='background-image: url("/assets/cda085d959d7040960ca.svg");'],
 [style*='background-image: url("/assets/9927535f3a57b86a89ca.svg");'] {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/ban_hammer.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/ban_hammer.svg") !important;
 }
 
 /* 🚀 Boost */
 .theme-dark .channelNotice-3-mDJt,
 .theme-light .channelNotice-3-mDJt {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/boost.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/boost.svg");
   background-repeat: no-repeat;
 }
 
 /* 🔎💥 Broken magnifying glass */
 :root .errorImage_c2b47d {
-  background: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/broken.svg")
+  background: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/broken.svg")
   center/cover;
 }
 
 /* 🏰 Castle */
 :root .verification_ce1f6e .image_ce1f6e {
-  background: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/castle.svg") 50%/80%
+  background: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/castle.svg") 50%/80%
   no-repeat;
 }
 
 /* ⚙️ Channel settings here and u didn't finished */
 [src="/assets/490943c0bf8c5298a2a5.svg"],
 [src="/assets/8bd0c5b096e166c5857f.svg"] {
-  content: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/channel_settings.svg");
+  content: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/channel_settings.svg");
 }
 
 /* ⚙️ Category settings */
 [src="/assets/a221ecd0f9f14fe4d0b1.svg"],
 [src="/assets/ec411ddc89957ad4437f.svg"] {
-  content: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/category_settings.svg");
+  content: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/category_settings.svg");
 }
 
 /* 🖥️ Computer */
 [style*='background-image: url("/assets/71792026f672985a033d.svg");'],
 [style*='background-image: url("/assets/4dae9f6eefe1407c3cec.svg");'] {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/computer.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/computer.svg") !important;
 }
 
 /* 💥 Crash */
 :root .image_b06619 {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/crash.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/crash.svg");
 }
 
 /* 🎮 Developer Options */
 [style*='background-image: url("/assets/fe00d138a10c4d10a245.svg");'],
 [style*='background-image: url("/assets/e39ad82e6a363d79f2a9.svg");'] {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/dev_options.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/dev_options.svg") !important;
 }
 
 /* 😃 Emojis */
 [style*='background-image: url("/assets/1248c5404ae1ad9c1e18.svg");'],
 [style*='background-image: url("/assets/96e2639de7bec6a0f7e5.svg");'] {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/emojis.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/emojis.svg") !important;
 }
 
 /* 📭 Empty */
 :root .image_bbfa4c,
 :root .emptyImage_e37a20 {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/empty.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/empty.svg");
 }
 
 /* 😊 Friend */
 .theme-dark .channelNotice-tO6Tus.invite-OjTXrW,
 .theme-light .channelNotice-tO6Tus.invite-OjTXrW {
-  background: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/friend.svg")
+  background: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/friend.svg")
   no-repeat center 20px;
   background-size: 40%;
 }
 
 /* 🤷‍♂️ GIF not found */
 :root .sadImage_e78f9e {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/gif_not_found.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/gif_not_found.svg");
 }
 
 /* 🤷‍ GIF picker end */
 :root .endContainer_bad108::after {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/gif_picker_end.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/gif_picker_end.svg");
 }
 
 /* 👥 Groups */
 :root .noFriends_e6af9c .errorStateIcon_e6af9c5 {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/groups.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/groups.svg");
 }
 
 /* 🎁 Gift Inventory */
 :root .emptyStateImage_e8af36,
 :root .emptyWumpus_f1629a {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/gift_inventory.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/gift_inventory.svg");
 }
 
 /* 🏠 Houses */
 :root .emptyIconGuilds_e4be58 {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/houses.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/houses.svg");
 }
 
 /* ✨ Integrations */
 :root .footerImage_fab929 {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/integrations.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/integrations.svg");
 }
 
 [src="/assets/d89511b11686ab5c942b3ef900e3d0eb.svg"],
 [src="/assets/552bbc1a21ccdc1778e72f30154593ef.svg"] {
-  content: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/integrations.svg");
+  content: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/integrations.svg");
 }
 
 /* 🔑 Key */
 .theme-dark .channelNotice-tO6Tus.guildMFAWarning-3GEzs8,
 .theme-light .channelNotice-tO6Tus.guildMFAWarning-3GEzs8 {
-  background: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/key.svg") no-repeat
+  background: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/key.svg") no-repeat
   center 20px;
   background-size: 40%;
 }
@@ -131,136 +131,136 @@
 /* ❌ No channel */
 [style*='background-image: url("/assets/8dc24c1fbe75eed7a12c.svg");'],
 [style*='background-image: url("/assets/14a2f3e448f5b6db0727.svg");'] {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/no_channel.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/no_channel.svg") !important;
 }
 
 /* ⌨️ No keybinds */
 [style*='background-image: url("/assets/12d9bda733d6432d605e8011c22c3e56.svg");'],
 [style*='background-image: url("/assets/8de4b17bb44ad5ef9f21f2f6f16aa8d1.svg");'] {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/no_keybinds.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/no_keybinds.svg") !important;
 }
 
 /* 🙁 No Mutuals */
 :root .emptyIconFriends_e4be58 {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/no_mutuals.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/no_mutuals.svg");
   background-size: 100%;
 }
 
 /* 🔎 🗣️ No results conversation */
 :root .emptyState_f4e139 {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/no_results_conv.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/no_results_conv.svg");
   background-size: 20%;
 }
 
 /* 🔎 No results search bar*/
 :root .noResultsImage_c2b47d {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/no_results.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/no_results.svg");
 }
 
 /* 📱 Phones */
 :root .verificationBlock__2ee71 .image_ce1f6e.phone__0b460 {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/phones.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/phones.svg");
 }
 
 /* 🖼️ Pictures */
 [style*='background-image: url("/assets/59848dfca28e69ff3553.svg");'],
 [style*='background-image: url("/assets/923ebe1687af3952c1c5.svg");'] {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/pictures.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/pictures.svg") !important;
 }
 
 /* 📌 Pinned */
 [style*='background-image: url("/assets/47d3ea2d7721c75ea6cb.svg");'],
 [style*='background-image: url("/assets/34224ab48bff9727f3f8.svg");'] {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/pinned.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/pinned.svg") !important;
 }
 
 /* 💩 Poo */
 :root .imageError__3af5f,
 :root .invalidPoop_ff31dd,
 :root .guildIconExpired_b9fe76 {
-  content: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/poop.svg");
+  content: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/poop.svg");
 }
 
 /* 📜 Scroll */
 [style*='background-image: url("/assets/90d76146cf8dc0c17b19.svg");'],
 [style*='background-image: url("/assets/c2d3560eaed920451bc5.svg");'] {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/scroll.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/scroll.svg") !important;
 }
 
 /* 🔎 Searching */
 .theme-dark .searchIndexBackground_e1f40e,
 .theme-light .searchIndexBackground_e1f40e {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/searching.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/searching.svg");
 }
 
 /* 🔥 Server outage */
 .theme-dark .art-_juKdZ,
 .theme-light .art-_juKdZ {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/server_outage.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/server_outage.svg");
 }
 
 /* 🟢 Spotify error */
 :root .artworkSpotifySessionEnded_cdcad9 {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/spotify_error.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/spotify_error.svg");
 }
 
 /* 🤷‍♂️ Sticker not found */
 [style*='background-image: url("/assets/d6e0ab2f94e516718aa7.svg");'] {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/sticker_not_found.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/sticker_not_found.svg") !important;
 }
 
 /* 🔴 Streamer Mode */
 :root .streamerModeEnabledImage_c50c8b,
 :root .emptyIconStreamerMode_e4be58 {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/streamer_mode.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/streamer_mode.svg");
 }
 
 /* ↔️ Switch */
 .theme-dark .channelNotice-tO6Tus.quickswitcher-35bYg4,
 .theme-light .channelNotice-tO6Tus.quickswitcher-35bYg4 {
-  background: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/switch.svg")
+  background: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/switch.svg")
   no-repeat center 20px;
 }
 
 /* 📹 Test Video */
 :root .previewImage_ff1ac9 {
-  content: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/test_video.svg");
+  content: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/test_video.svg");
 }
 
 /* 🗝️ Treasure Chest */
 [src="/assets/9b1b9ee4868c262e7351.svg"],
 [src="/assets/037d2a13146a63934803.svg"] {
-  content: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/treasure_chest.svg");
+  content: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/treasure_chest.svg");
 }
 
 /* 🎁 Unclaimed */
 .theme-dark .imageUnclaimed-5nJyYs,
 .theme-light .imageUnclaimed-5nJyYs {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/unclaimed.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/unclaimed.svg");
 }
 
 /* 🔊 Vocal full */
 .fullArt-KDeDyg {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/vocal_full.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/vocal_full.svg");
   background-size: 100%;
 }
 
 /* ⛏️ Wumpus Mining */
 [style*='background-image: url("/assets/99ad5845cf7de1c326e2.svg");'],
 [style*='background-image: url("/assets/ee4637f8627629dd0da5.svg");'] {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/wumpus_mining.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/wumpus_mining.svg") !important;
 }
 
 /* 🗻 Wumpus Mountains */
 [style*='background-image: url("/assets/04e2c9489e75f5614205.svg");'],
 [style*='background-image: url("/assets/7ff5a96a1c84092e629e.svg");'] {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/wumpus_mountain.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/wumpus_mountain.svg") !important;
 }
 
 .noResultsContainer_b7560d > div:first-child {
   width: 200px;
   height: 100px;
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/wumpus_mountain.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/wumpus_mountain.svg");
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -272,7 +272,7 @@
 /* 💤 Wumpus Sleeping */
 [style*='background-image: url("/assets/dcbf373925d18e337c98.svg");'],
 [style*='background-image: url("/assets/1641b16ec6ac0c4e733d.svg");'] {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/wumpus_sleeping.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/wumpus_sleeping.svg") !important;
 }
 
 /* 🍵 Wumpus Tea Party */
@@ -280,12 +280,12 @@
 [style*='background-image: url("/assets/e61cb3f7d0bd4dc1a78b.svg");'],
 .theme-dark .notFriends_e6af9c .errorStateIcon_e6af9c,
 .theme-light .notFriends_e6af9c .errorStateIcon_e6af9c {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/wumpus_tea_party.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/wumpus_tea_party.svg") !important;
 }
 
 /* 💬 Group chat */
 [class^="partyFull_"] {
-  background-image: url("https://github.com/Mozza7/CX-BDC/blob/main/Assets/discolered/weapons.svg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/Mozza7/CX-BDC@stable/Assets/discolered/weapons.svg") !important;
 }
 
 /* 🏓 @everyone */
